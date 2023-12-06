@@ -9,4 +9,4 @@
 </div>
 
 </br>
-短链服务：[CCW.PW](http://ccw.pw/)
+短链服务：<a href="http://ccw.pw/">点我</a>
